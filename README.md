@@ -1,2 +1,2 @@
 # Python-Study
-For Python learning purposes testing
+For Python learning purposes test
