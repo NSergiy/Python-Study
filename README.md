@@ -1,3 +1,3 @@
 # Python-Study
-For Python learning purposes
+For Python learning purposes testing
 Algorithms
